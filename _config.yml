@@ -1,67 +1,82 @@
-title: "Ayesha Subhashanee"
-logo: "/assets/Ayesha-Profilepic.jpg"
+#title: "Radin Dinsara Gunarathne"
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Contact Information
-email: "ayeshasubha700@gmail.com"
-github: "Ayesha-Subhashanee"
-
-# Customizing the Page Design
 description: |
   <style>
-    /* Profile Container */
     .profile-container {
       display: flex;
-      flex-direction: column;
+      flex-wrap: wrap;
       align-items: center;
       justify-content: center;
-      padding: 30px;
       text-align: center;
+      padding: 20px;
     }
-
-    /* Profile Image */
     .profile-image {
-      width: 180px;
-      height: 180px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .profile-image img {
+      width: 25%;
+      max-width: 200px;
+      min-width: 120px;
       border-radius: 50%;
-      border: 3px solid #555;
-      object-fit: cover;
-      margin-bottom: 15px;
     }
-
-    /* Contact Section */
+    .profile-details {
+      width: 100%;
+      max-width: 600px;
+      text-align: left;
+    }
     .contact-info {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
       margin-top: 20px;
-      font-size: 16px;
-      font-weight: 500;
     }
-
     .contact-item {
       display: flex;
       align-items: center;
-      justify-content: center;
       gap: 10px;
-      margin: 5px 0;
     }
-
     .contact-item img {
-      width: 18px;
-      height: 18px;
+      width: 20px;
+      height: 20px;
+    }
+    @media (max-width: 600px) {
+      .profile-container {
+        flex-direction: column;
+        text-align: center;
+      }
+      .profile-details {
+        text-align: center;
+      }
     }
   </style>
 
   <div class="profile-container">
-    <img src="/assets/Ayesha-Profilepic.jpg" class="profile-image" alt="Ayesha Subhashanee">
-    <h2>Contact</h2>
-    <div class="contact-info">
-      <div class="contact-item">
-        <img src="/assets/Email-icon.png" alt="Email">
-        <a href="mailto:ayeshasubha700@gmail.com">ayeshasubha700@gmail.com</a>
-      </div>
-      <div class="contact-item">
-        <img src="/assets/github-icon.png" alt="GitHub">
-        <a href="https://github.com/Ayesha-Subhashanee">github.com/Ayesha-Subhashanee</a>
+    <div class="profile-image">
+      <img src="/assets/Radin-profile pic.png" alt="Radin Dinsara Gunarathne">
+    </div>
+    <div class="profile-details">
+      <h2>Contact</h2>
+      <div class="contact-info">
+        <div class="contact-item">
+          <img src="/assets/Location-icon.png" alt="Location">
+          <span><strong>Gampaha, Sri Lanka</strong></span>
+        </div>
+        <div class="contact-item">
+          <img src="/assets/Email-icon.png" alt="Email">
+          <a href="mailto:radinpersonald@gmail.com">radinpersonald@gmail.com</a>
+        </div>
+        <div class="contact-item">
+          <img src="/assets/linkedin-icon.png" alt="LinkedIn">
+          <a href="https://linkedin.com/in/radindinsara">linkedin.com/in/radindinsara</a>
+        </div>
+        <div class="contact-item">
+          <img src="/assets/github-icon.png" alt="GitHub">
+          <a href="https://github.com/radindinsara">github.com/radindinsara</a>
+        </div>
       </div>
     </div>
   </div>
