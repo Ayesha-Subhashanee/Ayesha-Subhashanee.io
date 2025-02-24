@@ -72,18 +72,18 @@ description: |
 
   <div class="profile-container">
     <div class="profile-image">
-      <img src="/assets/Ayesha-Profilepic.jpg" alt="Ayesha Subhashanee">
+      <img src="assets/Ayesha-Profilepic.jpg" alt="Ayesha Subhashanee">
     </div>
 
     <div class="profile-details">
       <h2>Contact</h2>
       <div class="contact-info">
         <div class="contact-item">
-          <img src="/assets/Email-icon.png" alt="Email Icon">
+          <img src="assets/Email-icon.png" alt="Email Icon">
           <a href="mailto:ayeshasubha700@gmail.com" target="_blank" rel="noopener">ayeshasubha700@gmail.com</a>
         </div>
         <div class="contact-item">
-          <img src="/assets/github-icon.png" alt="GitHub Icon">
+          <img src="assets/github-icon.png" alt="GitHub Icon">
           <a href="https://github.com/Ayesha-Subhashanee" target="_blank" rel="noopener">github.com/Ayesha-Subhashanee</a>
         </div>
       </div>
