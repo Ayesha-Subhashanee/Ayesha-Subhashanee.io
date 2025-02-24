@@ -4,7 +4,6 @@ theme: jekyll-theme-minimal
 
 description: |
   <style>
-    /* Profile Container */
     .profile-container {
       display: flex;
       flex-wrap: wrap;
@@ -16,7 +15,6 @@ description: |
       margin: 0 auto;
     }
 
-    /* Profile Image */
     .profile-image {
       display: flex;
       justify-content: center;
@@ -31,15 +29,12 @@ description: |
       border: 3px solid #555;
     }
 
-    /* Profile Details */
     .profile-details {
       width: 100%;
       max-width: 600px;
-      text-align: left;
       padding: 10px;
     }
 
-    /* Contact Section */
     .contact-info {
       display: flex;
       flex-direction: column;
@@ -58,14 +53,9 @@ description: |
       height: 20px;
     }
 
-    /* Responsive Design */
     @media (max-width: 600px) {
       .profile-container {
         flex-direction: column;
-        text-align: center;
-      }
-      .profile-details {
-        text-align: center;
       }
     }
   </style>
@@ -80,11 +70,11 @@ description: |
       <div class="contact-info">
         <div class="contact-item">
           <img src="assets/Email-icon.png" alt="Email Icon">
-          <a href="mailto:ayeshasubha700@gmail.com" target="_blank" rel="noopener">ayeshasubha700@gmail.com</a>
+          <a href="mailto:ayeshasubha700@gmail.com">ayeshasubha700@gmail.com</a>
         </div>
         <div class="contact-item">
           <img src="assets/github-icon.png" alt="GitHub Icon">
-          <a href="https://github.com/Ayesha-Subhashanee" target="_blank" rel="noopener">github.com/Ayesha-Subhashanee</a>
+          <a href="https://github.com/Ayesha-Subhashanee" target="_blank">github.com/Ayesha-Subhashanee</a>
         </div>
       </div>
     </div>
