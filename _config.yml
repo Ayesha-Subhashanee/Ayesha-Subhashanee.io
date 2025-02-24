@@ -30,7 +30,7 @@ description: |
   </style>
 
   <div class="profile-container">
-    <img src="/assets/Ayesha-Profilepic.jpg" class="profile-image" alt="Ayesha Subhashanee">
+    <img src="/assets/Ayesha-Profilepic.jpg" class="profile-image">
     <h2>Contact</h2>
     <div class="contact-item">
       <img src="/assets/Email-icon.png" alt="Email">
