@@ -1,13 +1,5 @@
 # Ayesha Subhashanee Hallala Hewage
 
-*Mobile:* +81 7091333351
-
-*Address:* 371-0857, Gunmaken, Maebashishi, Takaimachi, 1-34-3 West Cote E
-
-*Email:* [ayeshasubha700@gmail.com](mailto:ayeshasubha700@gmail.com)
-
----
-
 ## *Objective*
 I am a diligent, efficient, ambitious, and sociable professional with proven expertise in prioritizing work and meeting tight deadlines. I seek a challenging position where I can leverage my skills and experience to contribute to organizational growth and success.
 
