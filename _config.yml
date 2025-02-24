@@ -56,26 +56,18 @@ description: |
 
   <div class="profile-container">
     <div class="profile-image">
-      <img src="/assets/Radin-profile pic.png" alt="Radin Dinsara Gunarathne">
+      <img src="assets/Ayesha-Profilepic.jpg" alt="Ayesha">
     </div>
     <div class="profile-details">
       <h2>Contact</h2>
       <div class="contact-info">
         <div class="contact-item">
-          <img src="/assets/Location-icon.png" alt="Location">
-          <span><strong>Gampaha, Sri Lanka</strong></span>
-        </div>
-        <div class="contact-item">
           <img src="/assets/Email-icon.png" alt="Email">
-          <a href="mailto:radinpersonald@gmail.com">radinpersonald@gmail.com</a>
-        </div>
-        <div class="contact-item">
-          <img src="/assets/linkedin-icon.png" alt="LinkedIn">
-          <a href="https://linkedin.com/in/radindinsara">linkedin.com/in/radindinsara</a>
+          <a href="mailto:ayeshasubha700@gmail.com">ayeshasubha700@gmail.com</a>
         </div>
         <div class="contact-item">
           <img src="/assets/github-icon.png" alt="GitHub">
-          <a href="https://github.com/radindinsara">github.com/radindinsara</a>
+          <a href="https://github.com/Ayesha-Subhashanee">https://github.com/Ayesha-Subhashanee</a>
         </div>
       </div>
     </div>
