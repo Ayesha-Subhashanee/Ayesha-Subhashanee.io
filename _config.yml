@@ -1,15 +1,10 @@
-
+title: "Ayesha Subhashanee"
+logo: /assets/Ayesha-Profilepic.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Contact Information
-email: ayeshasubha700@gmail.com
-github: Ayesha-Subhashanee
-
-# Customizing the Page Design
 description: |
   <style>
-    /* Profile Container */
     .profile-container {
       display: flex;
       flex-direction: column;
@@ -18,108 +13,33 @@ description: |
       padding: 30px;
       text-align: center;
     }
-
-    /* Profile Image */
-    .profile-image {
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    .profile-image img {
       width: 150px;
       height: 150px;
       border-radius: 50%;
-      overflow: hidden;
-      border: 4px solid #ccc;
-      margin-bottom: 15px;
+      border: 3px solid #ccc;
     }
-    
-    .profile-image img {
-      width: 100%;
-      height: auto;
-      border-radius: 50%;
-    }
-
-    /* Profile Details */
-    .profile-details {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      max-width: 500px;
-      text-align: left;
-    }
-
-    /* Contact Info */
-    .contact-info {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-      margin-top: 15px;
-    }
-    
     .contact-item {
       display: flex;
       align-items: center;
       gap: 8px;
       font-size: 14px;
     }
-
     .contact-item img {
       width: 18px;
       height: 18px;
     }
-
-    /* Logo Section */
-    .logo-container {
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-      width: 100%;
-      padding-left: 20px;
-      margin-bottom: 15px;
-    }
-
-    .logo-container img {
-      width: 50px;
-      height: auto;
-    }
-
-    /* Responsive Design */
-    @media (max-width: 600px) {
-      .profile-container {
-        padding: 20px;
-      }
-      .profile-details {
-        text-align: center;
-      }
-    }
   </style>
 
   <div class="profile-container">
-    
-    <!-- Logo on the Left Side -->
-    <div class="logo-container">
-      <img src="/assets/Ayesha-Profilepic.jpg" alt="Ayesha Subhashanee Logo">
+    <img src="/assets/Ayesha-Profilepic.jpg" class="profile-image" alt="Ayesha Subhashanee">
+    <h2>Contact</h2>
+    <div class="contact-item">
+      <img src="/assets/Email-icon.png" alt="Email">
+      <a href="mailto:ayeshasubha700@gmail.com">ayeshasubha700@gmail.com</a>
     </div>
-
-    <!-- Profile Picture -->
-    <div class="profile-image">
-      <img src="/assets/Ayesha-Profilepic.jpg" alt="Ayesha Subhashanee">
+    <div class="contact-item">
+      <img src="/assets/github-icon.png" alt="GitHub">
+      <a href="https://github.com/Ayesha-Subhashanee">github.com/Ayesha-Subhashanee</a>
     </div>
-
-    <!-- Contact Information -->
-    <div class="profile-details">
-      <h2>Contact</h2>
-      <div class="contact-info">
-        <div class="contact-item">
-          <img src="/assets/Email-icon.png" alt="Email">
-          <a href="mailto:ayeshasubha700@gmail.com">ayeshasubha700@gmail.com</a>
-        </div>
-        <div class="contact-item">
-          <img src="/assets/github-icon.png" alt="GitHub">
-          <a href="https://github.com/Ayesha-Subhashanee">github.com/Ayesha-Subhashanee</a>
-        </div>
-      </div>
-    </div>
-
   </div>
